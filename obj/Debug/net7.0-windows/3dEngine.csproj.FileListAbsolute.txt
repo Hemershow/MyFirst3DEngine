@@ -1,0 +1,30 @@
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\bin\Debug\net7.0-windows\3dEngine.exe
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\bin\Debug\net7.0-windows\3dEngine.deps.json
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\bin\Debug\net7.0-windows\3dEngine.runtimeconfig.json
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\bin\Debug\net7.0-windows\3dEngine.dll
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\bin\Debug\net7.0-windows\3dEngine.pdb
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\3dEngine.csproj.AssemblyReference.cache
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\3dEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\3dEngine.AssemblyInfoInputs.cache
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\3dEngine.AssemblyInfo.cs
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\3dEngine.csproj.CoreCompileInputs.cache
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\3dEngine.dll
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\refint\3dEngine.dll
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\3dEngine.pdb
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\3dEngine.genruntimeconfig.cache
+C:\Users\hemer\OneDrive\Área de Trabalho\3dEngine\obj\Debug\net7.0-windows\ref\3dEngine.dll
+C:\Users\disrct\Desktop\3dEngine\bin\Debug\net7.0-windows\3dEngine.exe
+C:\Users\disrct\Desktop\3dEngine\bin\Debug\net7.0-windows\3dEngine.deps.json
+C:\Users\disrct\Desktop\3dEngine\bin\Debug\net7.0-windows\3dEngine.runtimeconfig.json
+C:\Users\disrct\Desktop\3dEngine\bin\Debug\net7.0-windows\3dEngine.dll
+C:\Users\disrct\Desktop\3dEngine\bin\Debug\net7.0-windows\3dEngine.pdb
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\3dEngine.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\3dEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\3dEngine.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\3dEngine.AssemblyInfo.cs
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\3dEngine.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\3dEngine.dll
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\refint\3dEngine.dll
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\3dEngine.pdb
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\3dEngine.genruntimeconfig.cache
+C:\Users\disrct\Desktop\3dEngine\obj\Debug\net7.0-windows\ref\3dEngine.dll
